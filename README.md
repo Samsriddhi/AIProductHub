@@ -79,28 +79,8 @@ AIProductHub is an intelligent product information extractor powered by agentic 
 
 ---
 
-## 🌱 What’s Next
 
-### 🔮 Planned Enhancements(What time constraints did not let me do)
-
-- **RAG++ Integration**: Smarter, high-quality retrieval from internal product databases before query is sent to Langflow.
-- **Prompt Caching**: Store previously processed prompts and their Langflow responses to:
-  - Save tokens (💸)
-  - Accelerate inference
-- **Schema Validation & Auto-fill**: Ensure outputs always conform to a strict product schema
-- **Product Database Sync**: Directly save enriched data to a NoSQL DB (e.g., MongoDB or Astra DB)
-
----
-
-## 🧠 Example Use Cases
-
-- Auto-filling product specs from barcode scans
-- Structuring user-uploaded catalog data
-- Smart product detail enrichment via agents
-
----
-
-## Workflow:
+## Backend Workflow:
 
             +-------------------------+
             |      User Input         |
@@ -147,6 +127,35 @@ AIProductHub is an intelligent product information extractor powered by agentic 
          |   - Reads from backend API              |
          |   - Displays product metadata dashboard |
          +-----------------------------------------+
+---
+
+### VIDEO DEMONSTRATIONS-
+
+full- https://drive.google.com/file/d/1TUSmNy947Nsd9c6lIzxUbyXYUVsjVKyX/view?usp=sharing
+backend- https://drive.google.com/file/d/1CGqQESsVTc9NQuRtei4eI-9idXKV_M62/view?usp=sharing
+
+---
+
+## 🌱 What’s Next
+
+### 🔮 Planned Enhancements(What time constraints did not let me do)
+
+- **RAG++ Integration**: Smarter, high-quality retrieval from internal product databases before query is sent to Langflow.
+- **Prompt Caching**: Store previously processed prompts and their Langflow responses to:
+  - Save tokens (💸)
+  - Accelerate inference
+- **Schema Validation & Auto-fill**: Ensure outputs always conform to a strict product schema
+- **Product Database Sync**: Directly save enriched data to a NoSQL DB (e.g., MongoDB or Astra DB)
+
+---
+
+## 🧠 Example Use Cases
+
+- Auto-filling product specs from barcode scans
+- Structuring user-uploaded catalog data
+- Smart product detail enrichment via agents
+
+---
 
 
 > Built with 💡 by Samriddhi

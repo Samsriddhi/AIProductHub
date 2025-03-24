@@ -5,6 +5,16 @@ AIProductHub is an intelligent product information extractor powered by agentic 
 
 ---
 
+
+
+### VIDEO DEMONSTRATIONS-
+
+full- https://drive.google.com/file/d/1TUSmNy947Nsd9c6lIzxUbyXYUVsjVKyX/view?usp=sharing
+
+backend- https://drive.google.com/file/d/1CGqQESsVTc9NQuRtei4eI-9idXKV_M62/view?usp=sharing
+
+---
+
 ## 🚀 Steps to Run
 
 0. **Go and Clone the Master Branch**
@@ -127,12 +137,7 @@ AIProductHub is an intelligent product information extractor powered by agentic 
          |   - Reads from backend API              |
          |   - Displays product metadata dashboard |
          +-----------------------------------------+
----
 
-### VIDEO DEMONSTRATIONS-
-
-full- https://drive.google.com/file/d/1TUSmNy947Nsd9c6lIzxUbyXYUVsjVKyX/view?usp=sharing
-backend- https://drive.google.com/file/d/1CGqQESsVTc9NQuRtei4eI-9idXKV_M62/view?usp=sharing
 
 ---
 

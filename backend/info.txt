@@ -1,0 +1,19 @@
+{
+  "id": 62877085,
+  "product_name": "Hydro Flask",
+  "barcode": null,
+  "brand": "Hydro Flask",
+  "product_image": null,
+  "item_weight": 300,
+  "weight_unit": "g",
+  "ingredients": null,
+  "product_description": "The Hydro Flask is a high-quality insulated water bottle designed to keep beverages cold for up to 24 hours or hot for up to 12 hours. Made from durable stainless steel, it features a powder-coated finish for a secure grip and is BPA-free.",
+  "storage_requirements": "Store in a cool, dry place.",
+  "items_per_package": 1,
+  "color": "Various colors available",
+  "material": "Stainless Steel",
+  "width": 9,
+  "height": 24,
+  "dimension_unit": "cm",
+  "warranty": "Lifetime warranty"
+}

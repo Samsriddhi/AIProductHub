@@ -57,6 +57,7 @@ backend- https://drive.google.com/file/d/1CGqQESsVTc9NQuRtei4eI-9idXKV_M62/view?
 - **TailwindCSS** (Styling)
 
 ### Backend
+- **Supabase(Postgre SQL)**
 - **Python + FastAPI** (API and business logic)
 - **Langflow Agent (Langchain + Astra)** for:
   - Enrichment via DuckDuckGo/Web Search
